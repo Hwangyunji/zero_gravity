@@ -1,3 +1,3 @@
 # zero_gravity
 
-https://github.com/Hwangyunji/zero_gravity.git
+https://hwangyunji.github.io/zero_gravity/
